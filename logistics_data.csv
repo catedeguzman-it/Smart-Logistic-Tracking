@@ -1,0 +1,101 @@
+timestamp,pickup_datetime,estimated_arrival,actual_arrival,shipment_id,order_id,origin_hub,destination_city,status,temperature_c,humidity_percent,temperature_alert,humidity_alert,package_type,logistics_delay,logistics_delay_reason,delivery_rating,customer_notified
+2025-06-13 20:46:21,2025-06-13 15:46:21,2025-06-15 15:46:21,2025-06-15 16:05:21,SHIP9499,ORD303582,Cebu Hub,Iloilo,In Transit,2.87,54.91,False,True,Frozen Pack,True,Mechanical Issue,,False
+2025-06-14 01:35:21,2025-06-13 23:35:21,2025-06-15 14:35:21,2025-06-15 13:45:21,SHIP5127,ORD634621,Cebu Hub,Taguig,Delayed,3.17,58.75,False,False,Envelope,False,None,3.0,True
+2025-06-14 03:28:21,2025-06-14 00:28:21,2025-06-16 03:28:21,2025-06-16 03:06:21,SHIP4468,ORD784295,QC Hub,Iloilo,Out for Delivery,5.73,65.02,False,False,Envelope,False,None,3.0,False
+2025-06-13 22:39:21,2025-06-13 18:39:21,2025-06-15 17:39:21,2025-06-15 18:22:21,SHIP2674,ORD224023,Davao Center,Iloilo,In Transit,3.57,56.49,False,False,Medium Box,True,Flooded Roads,4.0,True
+2025-06-13 17:30:21,2025-06-13 12:30:21,2025-06-15 03:30:21,2025-06-15 04:12:21,SHIP6878,ORD832344,QC Hub,Taguig,In Transit,2.3,77.0,True,True,Large Box,True,Flooded Roads,4.0,True
+2025-06-14 14:59:21,2025-06-14 11:59:21,2025-06-15 23:59:21,2025-06-16 01:51:21,SHIP8287,ORD619299,Laguna Warehouse,Baguio,Delivered,4.57,74.28,False,False,Envelope,True,Mechanical Issue,3.0,False
+2025-06-14 07:25:21,2025-06-14 03:25:21,2025-06-15 12:25:21,2025-06-15 14:04:21,SHIP4591,ORD544138,Laguna Warehouse,Iloilo,In Transit,4.96,76.38,False,True,Frozen Pack,True,Flooded Roads,4.0,True
+2025-06-14 11:28:21,2025-06-14 10:28:21,2025-06-16 06:28:21,2025-06-16 07:20:21,SHIP1902,ORD480045,Cebu Hub,Davao,Delayed,4.34,68.48,False,False,Large Box,True,Flooded Roads,,False
+2025-06-13 19:26:21,2025-06-13 18:26:21,2025-06-14 23:26:21,2025-06-14 23:40:21,SHIP9589,ORD676519,Cebu Hub,Iloilo,In Transit,2.83,71.65,False,False,Large Box,True,Checkpoint Delay,5.0,True
+2025-06-14 05:35:21,2025-06-14 01:35:21,2025-06-15 10:35:21,2025-06-15 12:21:21,SHIP7179,ORD474719,QC Hub,Baguio,Delayed,4.81,64.72,False,False,Frozen Pack,True,Mechanical Issue,,False
+2025-06-14 10:44:21,2025-06-14 08:44:21,2025-06-16 05:44:21,2025-06-16 06:28:21,SHIP5284,ORD840315,Laguna Warehouse,Taguig,Out for Delivery,3.57,71.3,False,False,Envelope,True,Heavy Traffic,5.0,False
+2025-06-14 01:58:21,2025-06-13 22:58:21,2025-06-15 01:58:21,2025-06-15 03:20:21,SHIP2371,ORD247331,QC Hub,Iloilo,Delivered,3.64,69.83,False,False,Envelope,True,Flooded Roads,5.0,True
+2025-06-14 11:32:21,2025-06-14 10:32:21,2025-06-15 17:32:21,2025-06-15 18:30:21,SHIP8496,ORD675010,QC Hub,Taguig,Delivered,6.04,73.9,False,False,Medium Box,True,Heavy Traffic,,True
+2025-06-14 17:03:21,2025-06-14 14:03:21,2025-06-16 01:03:21,2025-06-16 02:47:21,SHIP3063,ORD377451,QC Hub,Taguig,Delivered,3.61,73.62,False,False,Small Box,True,Mechanical Issue,3.0,False
+2025-06-13 20:35:21,2025-06-13 17:35:21,2025-06-15 12:35:21,2025-06-15 12:15:21,SHIP2548,ORD536285,Cebu Hub,Iloilo,Out for Delivery,3.38,58.73,False,False,Pouch,False,None,3.0,True
+2025-06-14 10:45:21,2025-06-14 05:45:21,2025-06-16 01:45:21,2025-06-16 02:07:21,SHIP9844,ORD560164,QC Hub,Davao,Out for Delivery,4.29,74.37,False,False,Frozen Pack,True,Mechanical Issue,3.0,False
+2025-06-14 11:46:21,2025-06-14 06:46:21,2025-06-16 04:46:21,2025-06-16 04:27:21,SHIP2266,ORD617315,QC Hub,Cebu City,Delivered,2.59,79.66,False,True,Small Box,False,None,3.0,True
+2025-06-14 06:40:21,2025-06-14 03:40:21,2025-06-16 00:40:21,2025-06-16 02:23:21,SHIP3029,ORD821954,QC Hub,Baguio,Out for Delivery,2.33,73.7,True,False,Pouch,True,Mechanical Issue,4.0,False
+2025-06-14 14:10:21,2025-06-14 12:10:21,2025-06-15 20:10:21,2025-06-15 22:01:21,SHIP5383,ORD118962,Cebu Hub,Naga,Delivered,3.0,55.38,False,False,Frozen Pack,True,Heavy Traffic,,False
+2025-06-14 04:11:21,2025-06-14 01:11:21,2025-06-15 07:11:21,2025-06-15 06:52:21,SHIP3426,ORD706320,Cebu Hub,Naga,Delayed,3.25,76.87,False,True,Pouch,False,None,,False
+2025-06-14 09:38:21,2025-06-14 04:38:21,2025-06-15 20:38:21,2025-06-15 22:16:21,SHIP6646,ORD278181,Davao Center,Taguig,Delivered,3.43,58.21,False,False,Frozen Pack,True,Mechanical Issue,,True
+2025-06-13 19:00:21,2025-06-13 15:00:21,2025-06-14 23:00:21,2025-06-14 23:20:21,SHIP4025,ORD233969,Cebu Hub,Naga,Delayed,6.86,61.73,False,False,Pouch,True,Flooded Roads,,False
+2025-06-13 23:54:21,2025-06-13 20:54:21,2025-06-15 12:54:21,2025-06-15 13:24:21,SHIP4433,ORD757210,Davao Center,Baguio,In Transit,3.03,78.99,False,True,Medium Box,True,Checkpoint Delay,5.0,False
+2025-06-14 01:54:21,2025-06-13 20:54:21,2025-06-15 10:54:21,2025-06-15 10:08:21,SHIP8645,ORD892507,QC Hub,Iloilo,Out for Delivery,4.28,51.79,False,True,Small Box,False,None,,True
+2025-06-13 18:22:21,2025-06-13 14:22:21,2025-06-15 07:22:21,2025-06-15 06:48:21,SHIP6776,ORD377516,Laguna Warehouse,Naga,Delayed,4.13,70.82,False,False,Envelope,False,None,5.0,True
+2025-06-14 15:12:21,2025-06-14 14:12:21,2025-06-16 09:12:21,2025-06-16 08:30:21,SHIP7010,ORD553889,Laguna Warehouse,Cebu City,In Transit,6.75,78.47,False,True,Pouch,False,None,4.0,False
+2025-06-13 19:17:21,2025-06-13 14:17:21,2025-06-15 06:17:21,2025-06-15 06:43:21,SHIP2867,ORD749224,Laguna Warehouse,Baguio,Delayed,7.96,62.9,True,False,Frozen Pack,True,Mechanical Issue,3.0,False
+2025-06-14 12:58:21,2025-06-14 11:58:21,2025-06-16 08:58:21,2025-06-16 10:40:21,SHIP6449,ORD534826,Laguna Warehouse,Iloilo,Out for Delivery,3.98,58.2,False,False,Pouch,True,Mechanical Issue,,False
+2025-06-14 12:24:21,2025-06-14 09:24:21,2025-06-16 02:24:21,2025-06-16 03:42:21,SHIP5757,ORD167936,Cebu Hub,Taguig,In Transit,7.27,78.51,False,True,Small Box,True,Flooded Roads,,True
+2025-06-13 21:39:21,2025-06-13 18:39:21,2025-06-15 01:39:21,2025-06-15 03:35:21,SHIP6222,ORD768932,Cebu Hub,Baguio,In Transit,4.78,59.25,False,False,Frozen Pack,True,Heavy Traffic,,True
+2025-06-14 03:07:21,2025-06-13 22:07:21,2025-06-15 05:07:21,2025-06-15 06:16:21,SHIP7143,ORD948373,Davao Center,Baguio,In Transit,7.77,62.85,True,False,Medium Box,True,Checkpoint Delay,,True
+2025-06-14 09:38:21,2025-06-14 06:38:21,2025-06-15 15:38:21,2025-06-15 17:37:21,SHIP5151,ORD976351,QC Hub,Baguio,Delivered,4.54,74.02,False,False,Small Box,True,Flooded Roads,5.0,True
+2025-06-14 01:25:21,2025-06-13 21:25:21,2025-06-15 04:25:21,2025-06-15 03:48:21,SHIP3450,ORD802691,Davao Center,Cebu City,Delivered,5.42,64.2,False,False,Frozen Pack,False,None,4.0,False
+2025-06-14 15:18:21,2025-06-14 11:18:21,2025-06-15 23:18:21,2025-06-16 00:57:21,SHIP6749,ORD368113,Davao Center,Davao,Delivered,3.84,54.49,False,True,Frozen Pack,True,Checkpoint Delay,4.0,True
+2025-06-14 00:34:21,2025-06-13 19:34:21,2025-06-15 15:34:21,2025-06-15 17:04:21,SHIP7074,ORD801396,Cebu Hub,Cebu City,Delivered,3.07,65.08,False,False,Large Box,True,Heavy Traffic,4.0,False
+2025-06-14 11:34:21,2025-06-14 08:34:21,2025-06-16 04:34:21,2025-06-16 04:02:21,SHIP5130,ORD916006,QC Hub,Baguio,Out for Delivery,3.43,75.12,False,True,Large Box,False,None,4.0,True
+2025-06-13 22:23:21,2025-06-13 18:23:21,2025-06-15 13:23:21,2025-06-15 13:21:21,SHIP8863,ORD584152,QC Hub,Naga,Delivered,5.13,73.59,False,False,Pouch,False,None,4.0,False
+2025-06-14 01:41:21,2025-06-13 22:41:21,2025-06-16 01:41:21,2025-06-16 03:32:21,SHIP9681,ORD496486,Cebu Hub,Cebu City,Delivered,7.17,75.95,False,True,Pouch,True,Flooded Roads,3.0,True
+2025-06-14 05:21:21,2025-06-14 00:21:21,2025-06-15 11:21:21,2025-06-15 12:33:21,SHIP2225,ORD547768,Cebu Hub,Naga,Delayed,6.33,66.61,False,False,Medium Box,True,Heavy Traffic,4.0,False
+2025-06-14 04:54:21,2025-06-13 23:54:21,2025-06-15 08:54:21,2025-06-15 08:48:21,SHIP8758,ORD765814,Cebu Hub,Iloilo,In Transit,3.36,67.08,False,False,Large Box,False,None,3.0,False
+2025-06-14 10:32:21,2025-06-14 05:32:21,2025-06-16 08:32:21,2025-06-16 07:32:21,SHIP8987,ORD534598,Laguna Warehouse,Naga,Delivered,2.28,52.59,True,True,Envelope,False,None,4.0,True
+2025-06-14 01:19:21,2025-06-13 23:19:21,2025-06-15 17:19:21,2025-06-15 19:13:21,SHIP9989,ORD512913,Laguna Warehouse,Cebu City,Out for Delivery,5.75,63.22,False,False,Envelope,True,Checkpoint Delay,,False
+2025-06-14 04:39:21,2025-06-14 02:39:21,2025-06-15 21:39:21,2025-06-15 21:17:21,SHIP2541,ORD977706,Laguna Warehouse,Naga,Delayed,2.65,53.32,False,True,Medium Box,False,None,4.0,True
+2025-06-14 06:07:21,2025-06-14 03:07:21,2025-06-15 10:07:21,2025-06-15 11:55:21,SHIP9943,ORD661083,Cebu Hub,Taguig,Delayed,2.54,60.75,False,False,Frozen Pack,True,Mechanical Issue,5.0,False
+2025-06-14 07:58:21,2025-06-14 03:58:21,2025-06-16 06:58:21,2025-06-16 08:46:21,SHIP4975,ORD434609,QC Hub,Baguio,In Transit,7.02,60.23,False,False,Medium Box,True,Heavy Traffic,,True
+2025-06-13 19:41:21,2025-06-13 18:41:21,2025-06-15 14:41:21,2025-06-15 13:41:21,SHIP8297,ORD394105,Davao Center,Davao,Out for Delivery,5.97,62.83,False,False,Medium Box,False,None,,True
+2025-06-14 08:26:21,2025-06-14 06:26:21,2025-06-16 00:26:21,2025-06-16 02:09:21,SHIP6001,ORD874992,QC Hub,Baguio,Delivered,6.3,61.43,False,False,Large Box,True,Mechanical Issue,,True
+2025-06-14 15:34:21,2025-06-14 14:34:21,2025-06-15 18:34:21,2025-06-15 18:52:21,SHIP2080,ORD143466,QC Hub,Naga,Out for Delivery,4.82,61.39,False,False,Pouch,True,Mechanical Issue,4.0,False
+2025-06-13 18:16:21,2025-06-13 15:16:21,2025-06-15 01:16:21,2025-06-15 02:18:21,SHIP3164,ORD324246,QC Hub,Davao,Delivered,6.05,74.89,False,False,Pouch,True,Flooded Roads,4.0,True
+2025-06-14 04:36:21,2025-06-14 02:36:21,2025-06-15 22:36:21,2025-06-15 23:25:21,SHIP1850,ORD360577,Cebu Hub,Davao,Delayed,2.76,60.18,False,False,Medium Box,True,Mechanical Issue,4.0,True
+2025-06-14 00:45:21,2025-06-13 22:45:21,2025-06-15 11:45:21,2025-06-15 11:32:21,SHIP4679,ORD333001,Davao Center,Cebu City,In Transit,2.44,78.49,True,True,Frozen Pack,False,None,4.0,True
+2025-06-14 11:02:21,2025-06-14 06:02:21,2025-06-16 06:02:21,2025-06-16 05:43:21,SHIP1071,ORD201991,Cebu Hub,Iloilo,In Transit,6.72,65.2,False,False,Large Box,False,None,5.0,True
+2025-06-14 12:32:21,2025-06-14 11:32:21,2025-06-15 13:32:21,2025-06-15 13:55:21,SHIP5413,ORD915770,Cebu Hub,Naga,In Transit,2.35,78.91,True,True,Small Box,True,Heavy Traffic,5.0,True
+2025-06-14 05:11:21,2025-06-14 00:11:21,2025-06-15 23:11:21,2025-06-16 01:00:21,SHIP1200,ORD881090,Cebu Hub,Davao,Out for Delivery,5.29,60.96,False,False,Small Box,True,Heavy Traffic,4.0,True
+2025-06-14 06:45:21,2025-06-14 03:45:21,2025-06-15 17:45:21,2025-06-15 18:58:21,SHIP4971,ORD617252,Davao Center,Davao,Out for Delivery,4.6,50.9,False,True,Large Box,True,Checkpoint Delay,5.0,True
+2025-06-14 10:59:21,2025-06-14 07:59:21,2025-06-15 13:59:21,2025-06-15 13:40:21,SHIP1263,ORD574328,Davao Center,Cebu City,Delayed,6.91,50.12,False,True,Pouch,False,None,4.0,False
+2025-06-14 08:08:21,2025-06-14 03:08:21,2025-06-15 23:08:21,2025-06-16 00:26:21,SHIP8476,ORD677699,Cebu Hub,Iloilo,Delivered,5.82,54.42,False,True,Large Box,True,Mechanical Issue,3.0,True
+2025-06-13 18:07:21,2025-06-13 13:07:21,2025-06-15 07:07:21,2025-06-15 07:46:21,SHIP2237,ORD419415,QC Hub,Davao,In Transit,3.65,66.88,False,False,Pouch,True,Heavy Traffic,5.0,False
+2025-06-14 01:52:21,2025-06-14 00:52:21,2025-06-15 01:52:21,2025-06-15 01:12:21,SHIP7153,ORD237183,Laguna Warehouse,Iloilo,In Transit,3.94,73.53,False,False,Pouch,False,None,4.0,False
+2025-06-14 15:53:21,2025-06-14 13:53:21,2025-06-15 21:53:21,2025-06-15 22:06:21,SHIP4696,ORD774561,Laguna Warehouse,Naga,In Transit,3.03,78.1,False,True,Pouch,True,Heavy Traffic,,True
+2025-06-14 03:08:21,2025-06-13 23:08:21,2025-06-15 13:08:21,2025-06-15 14:51:21,SHIP6969,ORD491045,Davao Center,Baguio,In Transit,7.01,58.37,False,False,Envelope,True,Heavy Traffic,3.0,True
+2025-06-14 02:12:21,2025-06-14 00:12:21,2025-06-15 06:12:21,2025-06-15 06:32:21,SHIP4959,ORD641098,Davao Center,Naga,Delayed,3.25,72.16,False,False,Envelope,True,Heavy Traffic,5.0,True
+2025-06-13 23:41:21,2025-06-13 22:41:21,2025-06-15 07:41:21,2025-06-15 09:25:21,SHIP4835,ORD740422,Laguna Warehouse,Naga,Out for Delivery,7.82,73.98,True,False,Large Box,True,Mechanical Issue,5.0,False
+2025-06-14 14:13:21,2025-06-14 11:13:21,2025-06-16 14:13:21,2025-06-16 13:40:21,SHIP6309,ORD856868,QC Hub,Iloilo,Delivered,4.59,79.59,False,True,Medium Box,False,None,4.0,False
+2025-06-13 19:25:21,2025-06-13 16:25:21,2025-06-15 03:25:21,2025-06-15 04:53:21,SHIP3871,ORD394539,QC Hub,Iloilo,Delayed,6.31,65.8,False,False,Frozen Pack,True,Heavy Traffic,5.0,False
+2025-06-13 20:36:21,2025-06-13 17:36:21,2025-06-15 01:36:21,2025-06-15 03:15:21,SHIP5475,ORD789254,Davao Center,Iloilo,Delivered,3.08,58.25,False,False,Medium Box,True,Checkpoint Delay,4.0,True
+2025-06-14 04:42:21,2025-06-14 03:42:21,2025-06-15 22:42:21,2025-06-15 22:02:21,SHIP5008,ORD271725,Davao Center,Baguio,Out for Delivery,2.91,53.43,False,True,Frozen Pack,False,None,3.0,False
+2025-06-13 23:27:21,2025-06-13 22:27:21,2025-06-15 14:27:21,2025-06-15 15:50:21,SHIP5598,ORD646543,Davao Center,Taguig,Out for Delivery,5.7,62.72,False,False,Envelope,True,Checkpoint Delay,5.0,False
+2025-06-13 22:18:21,2025-06-13 17:18:21,2025-06-15 13:18:21,2025-06-15 13:21:21,SHIP4137,ORD357506,QC Hub,Iloilo,In Transit,7.02,53.86,False,True,Small Box,True,Mechanical Issue,3.0,True
+2025-06-14 11:03:21,2025-06-14 10:03:21,2025-06-15 17:03:21,2025-06-15 18:14:21,SHIP7251,ORD902041,Laguna Warehouse,Baguio,In Transit,6.12,50.39,False,True,Pouch,True,Mechanical Issue,5.0,False
+2025-06-14 04:12:21,2025-06-14 02:12:21,2025-06-15 19:12:21,2025-06-15 19:30:21,SHIP6082,ORD421103,Cebu Hub,Iloilo,Out for Delivery,5.38,74.03,False,False,Pouch,True,Checkpoint Delay,5.0,False
+2025-06-14 04:19:21,2025-06-14 02:19:21,2025-06-15 21:19:21,2025-06-15 20:44:21,SHIP8401,ORD571001,QC Hub,Davao,In Transit,4.19,57.47,False,False,Frozen Pack,False,None,3.0,True
+2025-06-13 18:14:21,2025-06-13 17:14:21,2025-06-15 17:14:21,2025-06-15 18:05:21,SHIP8421,ORD598262,Davao Center,Taguig,Out for Delivery,6.02,65.21,False,False,Small Box,True,Mechanical Issue,3.0,False
+2025-06-14 08:50:21,2025-06-14 05:50:21,2025-06-15 16:50:21,2025-06-15 16:32:21,SHIP2830,ORD725626,Cebu Hub,Naga,Delayed,2.2,63.43,True,False,Large Box,False,None,4.0,True
+2025-06-13 19:30:21,2025-06-13 15:30:21,2025-06-15 10:30:21,2025-06-15 09:46:21,SHIP9070,ORD621576,Davao Center,Cebu City,Delayed,7.05,57.92,False,False,Small Box,False,None,,True
+2025-06-13 23:10:21,2025-06-13 18:10:21,2025-06-15 16:10:21,2025-06-15 17:50:21,SHIP8568,ORD776802,Davao Center,Naga,Out for Delivery,3.5,53.21,False,True,Envelope,True,Flooded Roads,4.0,True
+2025-06-13 23:27:21,2025-06-13 19:27:21,2025-06-15 15:27:21,2025-06-15 16:12:21,SHIP7451,ORD105736,QC Hub,Cebu City,In Transit,7.78,78.22,True,True,Frozen Pack,True,Flooded Roads,3.0,False
+2025-06-13 19:36:21,2025-06-13 16:36:21,2025-06-14 21:36:21,2025-06-14 21:01:21,SHIP8975,ORD466773,Davao Center,Iloilo,In Transit,6.08,54.43,False,True,Envelope,False,None,3.0,False
+2025-06-14 14:44:21,2025-06-14 11:44:21,2025-06-15 14:44:21,2025-06-15 16:34:21,SHIP4553,ORD421939,QC Hub,Davao,Delayed,5.9,62.12,False,False,Small Box,True,Heavy Traffic,3.0,False
+2025-06-14 06:52:21,2025-06-14 04:52:21,2025-06-15 22:52:21,2025-06-15 23:21:21,SHIP2377,ORD599277,Davao Center,Davao,In Transit,6.99,65.88,False,False,Frozen Pack,True,Flooded Roads,4.0,True
+2025-06-14 07:52:21,2025-06-14 06:52:21,2025-06-15 22:52:21,2025-06-15 23:19:21,SHIP8229,ORD603687,Davao Center,Baguio,Delivered,5.65,69.8,False,False,Large Box,True,Mechanical Issue,4.0,True
+2025-06-14 09:16:21,2025-06-14 07:16:21,2025-06-15 23:16:21,2025-06-16 00:50:21,SHIP4456,ORD985300,Laguna Warehouse,Taguig,Out for Delivery,5.02,78.26,False,True,Frozen Pack,True,Flooded Roads,5.0,True
+2025-06-14 08:45:21,2025-06-14 04:45:21,2025-06-15 12:45:21,2025-06-15 12:56:21,SHIP6802,ORD701166,Laguna Warehouse,Baguio,Delivered,3.51,59.01,False,False,Envelope,True,Heavy Traffic,,False
+2025-06-14 04:26:21,2025-06-14 01:26:21,2025-06-15 11:26:21,2025-06-15 12:06:21,SHIP9222,ORD990944,QC Hub,Baguio,In Transit,6.26,62.27,False,False,Envelope,True,Checkpoint Delay,3.0,False
+2025-06-14 02:52:21,2025-06-14 00:52:21,2025-06-15 11:52:21,2025-06-15 12:07:21,SHIP7195,ORD835921,QC Hub,Naga,In Transit,7.16,63.34,False,False,Small Box,True,Flooded Roads,,False
+2025-06-14 00:59:21,2025-06-13 22:59:21,2025-06-15 18:59:21,2025-06-15 20:10:21,SHIP3219,ORD520434,Davao Center,Iloilo,Delivered,7.0,65.75,False,False,Medium Box,True,Mechanical Issue,3.0,True
+2025-06-14 15:39:21,2025-06-14 12:39:21,2025-06-15 21:39:21,2025-06-15 22:40:21,SHIP4983,ORD987785,Laguna Warehouse,Taguig,Delivered,5.2,53.93,False,True,Envelope,True,Mechanical Issue,4.0,False
+2025-06-14 14:57:21,2025-06-14 11:57:21,2025-06-16 06:57:21,2025-06-16 06:15:21,SHIP3522,ORD359194,QC Hub,Iloilo,Out for Delivery,7.2,60.41,False,False,Pouch,False,None,,False
+2025-06-14 02:41:21,2025-06-13 21:41:21,2025-06-15 06:41:21,2025-06-15 05:56:21,SHIP2416,ORD210281,Laguna Warehouse,Cebu City,Delayed,5.67,62.02,False,False,Small Box,False,None,3.0,True
+2025-06-13 18:27:21,2025-06-13 14:27:21,2025-06-15 03:27:21,2025-06-15 04:47:21,SHIP9841,ORD483535,QC Hub,Cebu City,Delayed,7.03,56.52,False,False,Large Box,True,Checkpoint Delay,4.0,False
+2025-06-13 20:11:21,2025-06-13 15:11:21,2025-06-15 05:11:21,2025-06-15 04:42:21,SHIP8116,ORD701676,Cebu Hub,Iloilo,Delayed,5.97,72.59,False,False,Medium Box,False,None,3.0,False
+2025-06-14 16:11:21,2025-06-14 11:11:21,2025-06-15 16:11:21,2025-06-15 16:11:21,SHIP5716,ORD648056,Davao Center,Naga,In Transit,7.22,69.69,False,False,Large Box,False,None,5.0,False
+2025-06-14 06:57:21,2025-06-14 01:57:21,2025-06-16 02:57:21,2025-06-16 02:39:21,SHIP7346,ORD111349,Laguna Warehouse,Taguig,Delivered,2.85,71.19,False,False,Pouch,False,None,4.0,False
+2025-06-14 00:57:21,2025-06-13 21:57:21,2025-06-15 16:57:21,2025-06-15 16:46:21,SHIP7411,ORD255575,Davao Center,Taguig,Out for Delivery,5.66,55.15,False,False,Large Box,False,None,,False
+2025-06-14 12:10:21,2025-06-14 09:10:21,2025-06-16 00:10:21,2025-06-16 02:05:21,SHIP7594,ORD750620,Cebu Hub,Cebu City,In Transit,2.6,50.25,False,True,Large Box,True,Checkpoint Delay,3.0,True
+2025-06-14 14:17:21,2025-06-14 12:17:21,2025-06-15 20:17:21,2025-06-15 20:28:21,SHIP3554,ORD933668,Davao Center,Baguio,Delayed,3.65,65.38,False,False,Pouch,True,Flooded Roads,3.0,True
+2025-06-13 19:24:21,2025-06-13 15:24:21,2025-06-15 16:24:21,2025-06-15 17:57:21,SHIP6645,ORD567415,Davao Center,Baguio,Delivered,3.68,76.72,False,True,Medium Box,True,Checkpoint Delay,3.0,False
+2025-06-14 17:18:21,2025-06-14 14:18:21,2025-06-16 00:18:21,2025-06-16 02:00:21,SHIP8850,ORD286146,QC Hub,Davao,Delayed,5.9,53.82,False,True,Envelope,True,Checkpoint Delay,5.0,False
+2025-06-14 01:54:21,2025-06-13 21:54:21,2025-06-15 03:54:21,2025-06-15 03:05:21,SHIP2141,ORD361489,Laguna Warehouse,Iloilo,In Transit,6.09,79.59,False,True,Envelope,False,None,3.0,False
+2025-06-13 17:48:21,2025-06-13 16:48:21,2025-06-14 17:48:21,2025-06-14 18:35:21,SHIP9366,ORD140400,Cebu Hub,Davao,Delayed,7.08,56.44,False,False,Envelope,True,Checkpoint Delay,3.0,True
